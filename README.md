@@ -1,4 +1,4 @@
-### This is the radio kit manuals of dinuco.taobao.com.
+### This is the radio kit manuals for http://dinuco.taobao.com.
 We have provided many radio kits, such as R10 、R20、R60 pll receiver.
 First we provide R60 assemble manual in English version.
 Thanks and regards!👋

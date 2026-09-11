@@ -5,5 +5,5 @@ You can find the latest version assemble manuals in the corresponding folder.
 
 For more informations, you can visit the shop and talk with the seller.
 
-Thanks and regards!👋
+Thanks and regards!👋 
 [![Hits](https://hits.sh/github.com/dinuco/radio-kits.svg?view=today-total)](https://hits.sh/github.com/dinuco/radio-kits/)
